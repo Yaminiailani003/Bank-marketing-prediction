@@ -16,7 +16,7 @@ Before the predictive modeling part, make sure to perform –
 - The necessary transformations for the categorical variables and the numeric variables 
 - Handle variables corresponding to the previous campaign 
 - Train test split
--  
+
 #### Predictive model 1: Logistic regression 
 - Make a predictive model using logistic regression 
 - Use RFE to select top n features in an automated fashion (choose n as you see fit) 
